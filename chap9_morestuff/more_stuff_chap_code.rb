@@ -1,4 +1,4 @@
-=begin
+
 # REGEX
 
 def has_a_b?(string)
@@ -137,7 +137,7 @@ def greet(person)
 end
 greet("John")
 greet(1)
-=end
+
 def space_out_letters(person)
   return person.split("").join(" ")
 end

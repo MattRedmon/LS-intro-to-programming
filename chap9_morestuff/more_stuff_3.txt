@@ -1,0 +1,9 @@
+exercise # 3 -- What is exception handling and what problem does it solve??
+
+ANSWER:
+Exception handling allows us to deal with error and unexpected results in a
+manageable and predictable way.  We can use the exception class allow us to program
+responses to deal with these errors without breaking the program.  We use the
+begin, rescue, end trio to allows errors to be caught, a response to the error to
+be returned to us, and then allows the program to continue on without interruption.
+Without these the error would cause the program to halt.
