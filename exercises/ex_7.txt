@@ -1,0 +1,5 @@
+# exercise #7 --What's the major difference between an Array and a Hash??
+
+ANSWER:
+A hash is a date structure that stores items by associated keys. Hash entries are
+often referred to as key-value pairs. Arrays store items by an ordered index.

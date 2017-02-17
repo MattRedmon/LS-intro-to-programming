@@ -1,0 +1,9 @@
+exercise #11 - "Look at several Ruby online API sources and
+                 say which one you like best."
+
+RESPONSE:
+The http://ruby-doc.org/ website is the only one that I'm familiar with.  I've
+used it several times and find the info it provides to be useful. I've yet to find
+another single site that has as much info as this one. However, I often find better
+info by doing an internet search for the individual topics I need specific
+information on.

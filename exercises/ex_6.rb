@@ -1,4 +1,4 @@
-# exercise #5 - using # 4 remove 11 and append 3
+# exercise #6 - get rid of duplicates 
 
 arr = [1,2,3,4,5,6,7,8,9,10]
 
